@@ -24,5 +24,7 @@ void output(){
 }
 
 int main() {
-
+    input();
+    output();
+    cout << "hasil penjumlahan =" << jumlah(15.1, 24.9, 67);
 }
