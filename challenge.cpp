@@ -20,5 +20,7 @@ void akhir (){
     cout << "Hasil Luas untuk lingkaran dengan jari-jari: " << luas(jariJari) << endl;
 }
 int main(){
-    
+    awal();
+    akhir();
+    cout << "Hasil Luas untuk lingkaran dengan jari-jari: " << luas2(jariJari);
 }
