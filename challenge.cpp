@@ -16,6 +16,9 @@ float luas (float j){
 float luas2 (float j){
     return 3.14159 * j * j; 
 }
+void akhir (){
+    cout << "Hasil Luas untuk lingkaran dengan jari-jari: " << luas(jariJari) << endl;
+}
 int main(){
     
 }
