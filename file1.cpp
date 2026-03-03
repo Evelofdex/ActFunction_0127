@@ -11,6 +11,9 @@ void input() {
     cout << "masukan lebar =";
     cin >> l;
 }
+int luaspersegi(){
+    return p * l;
+}
 
 int main(){
 
