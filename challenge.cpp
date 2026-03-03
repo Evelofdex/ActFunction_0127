@@ -13,6 +13,9 @@ void awal(){
 float luas (float j){
     return phi * j * j; 
 }
+float luas2 (float j){
+    return 3.14159 * j * j; 
+}
 int main(){
     
 }
