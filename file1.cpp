@@ -14,6 +14,10 @@ void input() {
 int luaspersegi(){
     return p * l;
 }
+void output(){
+    cout << "hasilnya = " << luaspersegi() << endl;
+    cout << "terima kasih";
+}
 
 int main(){
 
